@@ -9,3 +9,9 @@ int main(){
     cout<<a*d<<"/"<<b*c;
     return 0;
 }
+/*Input: a=2 b=3 c=4 d=5
+  Output: 22/15
+          -2/15
+          8/15
+          10/12
+  Hàm tính toán các phép tính cộng trừ nhân chia giữa hai phân số*/
